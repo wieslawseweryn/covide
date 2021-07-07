@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Wal Commander (console)
+GenericName=File manager
+Comment=Dual pane file manager
+Exec=wcc -x
+TryExec=wcc
+Terminal=true
+Categories=Utility;FileManager;
+Icon=wcc
+StartupNotify=true
+X-Deepin-CreatedBy=com.deepin.dde.daemon.Launcher
+X-Deepin-AppID=wcc
+
