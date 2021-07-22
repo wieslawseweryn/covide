@@ -480,6 +480,9 @@ date,reproduction_rate,location
 2021-07-16,0.9454,dolnośląskie
 2021-07-17,1.072,dolnośląskie
 2021-07-18,0.8946,dolnośląskie
+2021-07-19,0.8764,dolnośląskie
+2021-07-20,0.8686,dolnośląskie
+2021-07-21,1.1043,dolnośląskie
 2020-04-04,1.0524,kujawsko-pomorskie
 2020-04-05,0.8814,kujawsko-pomorskie
 2020-04-06,0.6457,kujawsko-pomorskie
@@ -951,6 +954,9 @@ date,reproduction_rate,location
 2021-07-16,0.7994,kujawsko-pomorskie
 2021-07-17,0.8605,kujawsko-pomorskie
 2021-07-18,0.7545,kujawsko-pomorskie
+2021-07-19,0.8111,kujawsko-pomorskie
+2021-07-20,0.9814,kujawsko-pomorskie
+2021-07-21,1.158,kujawsko-pomorskie
 2020-03-31,1.4262,lubelskie
 2020-04-01,0.7504,lubelskie
 2020-04-02,1.0167,lubelskie
@@ -1426,6 +1432,9 @@ date,reproduction_rate,location
 2021-07-16,0.899,lubelskie
 2021-07-17,0.9682,lubelskie
 2021-07-18,1.0507,lubelskie
+2021-07-19,1.0754,lubelskie
+2021-07-20,1.1167,lubelskie
+2021-07-21,1.2448,lubelskie
 2020-05-26,0.2587,lubuskie
 2020-05-27,0.1294,lubuskie
 2020-05-28,0.1613,lubuskie
@@ -1845,6 +1854,9 @@ date,reproduction_rate,location
 2021-07-16,0.6202,lubuskie
 2021-07-17,0.6266,lubuskie
 2021-07-18,0.6712,lubuskie
+2021-07-19,0.8437,lubuskie
+2021-07-20,1.0784,lubuskie
+2021-07-21,1.0784,lubuskie
 2020-03-22,1.377,mazowieckie
 2020-03-23,1.6031,mazowieckie
 2020-03-24,1.7891,mazowieckie
@@ -2329,6 +2341,9 @@ date,reproduction_rate,location
 2021-07-16,0.8896,mazowieckie
 2021-07-17,0.9424,mazowieckie
 2021-07-18,1.0191,mazowieckie
+2021-07-19,1.0931,mazowieckie
+2021-07-20,1.1182,mazowieckie
+2021-07-21,1.2764,mazowieckie
 2020-03-30,1.3702,małopolskie
 2020-03-31,1.1731,małopolskie
 2020-04-01,1.0904,małopolskie
@@ -2805,6 +2820,9 @@ date,reproduction_rate,location
 2021-07-16,0.8107,małopolskie
 2021-07-17,1.0548,małopolskie
 2021-07-18,1.1623,małopolskie
+2021-07-19,1.1836,małopolskie
+2021-07-20,1.4124,małopolskie
+2021-07-21,1.4274,małopolskie
 2020-04-08,0.7772,opolskie
 2020-04-09,0.79,opolskie
 2020-04-10,0.6796,opolskie
@@ -3272,6 +3290,9 @@ date,reproduction_rate,location
 2021-07-16,0.8115,opolskie
 2021-07-17,0.8529,opolskie
 2021-07-18,0.6897,opolskie
+2021-07-19,0.7125,opolskie
+2021-07-20,0.794,opolskie
+2021-07-21,0.8126,opolskie
 2020-04-03,1.1596,podkarpackie
 2020-04-04,1.0252,podkarpackie
 2020-04-05,1.04,podkarpackie
@@ -3744,6 +3765,9 @@ date,reproduction_rate,location
 2021-07-16,1.2241,podkarpackie
 2021-07-17,1.3189,podkarpackie
 2021-07-18,1.3218,podkarpackie
+2021-07-19,1.2988,podkarpackie
+2021-07-20,1.2767,podkarpackie
+2021-07-21,1.2979,podkarpackie
 2020-04-08,1.5356,podlaskie
 2020-04-09,1.3838,podlaskie
 2020-04-10,1.3618,podlaskie
@@ -4211,6 +4235,9 @@ date,reproduction_rate,location
 2021-07-16,1.2506,podlaskie
 2021-07-17,1.1983,podlaskie
 2021-07-18,1.083,podlaskie
+2021-07-19,1.1156,podlaskie
+2021-07-20,1.138,podlaskie
+2021-07-21,1.1966,podlaskie
 2020-04-06,0.608,pomorskie
 2020-04-07,0.7066,pomorskie
 2020-04-08,0.6919,pomorskie
@@ -4680,6 +4707,9 @@ date,reproduction_rate,location
 2021-07-16,1.0058,pomorskie
 2021-07-17,1.0346,pomorskie
 2021-07-18,1.0931,pomorskie
+2021-07-19,1.2127,pomorskie
+2021-07-20,1.0489,pomorskie
+2021-07-21,1.0085,pomorskie
 2020-04-12,0.9205,warmińsko-mazurskie
 2020-04-13,0.4602,warmińsko-mazurskie
 2020-04-14,0.3068,warmińsko-mazurskie
@@ -5140,6 +5170,9 @@ date,reproduction_rate,location
 2021-07-16,0.6312,warmińsko-mazurskie
 2021-07-17,0.6438,warmińsko-mazurskie
 2021-07-18,0.6136,warmińsko-mazurskie
+2021-07-19,0.5629,warmińsko-mazurskie
+2021-07-20,0.6258,warmińsko-mazurskie
+2021-07-21,0.6436,warmińsko-mazurskie
 2020-03-31,1.0723,wielkopolskie
 2020-04-01,1.2326,wielkopolskie
 2020-04-02,1.3661,wielkopolskie
@@ -5615,6 +5648,9 @@ date,reproduction_rate,location
 2021-07-16,1.0592,wielkopolskie
 2021-07-17,0.9871,wielkopolskie
 2021-07-18,0.9625,wielkopolskie
+2021-07-19,1.0241,wielkopolskie
+2021-07-20,1.0077,wielkopolskie
+2021-07-21,0.8788,wielkopolskie
 2020-04-06,0.9528,zachodniopomorskie
 2020-04-07,1.174,zachodniopomorskie
 2020-04-08,1.6631,zachodniopomorskie
@@ -6084,6 +6120,9 @@ date,reproduction_rate,location
 2021-07-16,0.8797,zachodniopomorskie
 2021-07-17,0.8928,zachodniopomorskie
 2021-07-18,0.8353,zachodniopomorskie
+2021-07-19,0.8039,zachodniopomorskie
+2021-07-20,0.7004,zachodniopomorskie
+2021-07-21,1.0085,zachodniopomorskie
 2020-03-24,1.4874,łódzkie
 2020-03-25,1.3231,łódzkie
 2020-03-26,1.2346,łódzkie
@@ -6566,6 +6605,9 @@ date,reproduction_rate,location
 2021-07-16,0.7892,łódzkie
 2021-07-17,0.9066,łódzkie
 2021-07-18,0.9792,łódzkie
+2021-07-19,1.0251,łódzkie
+2021-07-20,0.9762,łódzkie
+2021-07-21,0.9394,łódzkie
 2020-03-27,0.9697,śląskie
 2020-03-28,1.3196,śląskie
 2020-03-29,1.5147,śląskie
@@ -7045,6 +7087,9 @@ date,reproduction_rate,location
 2021-07-16,0.8642,śląskie
 2021-07-17,0.9425,śląskie
 2021-07-18,0.9997,śląskie
+2021-07-19,1.0556,śląskie
+2021-07-20,0.9674,śląskie
+2021-07-21,1.0313,śląskie
 2020-04-08,0.5218,świętokrzyskie
 2020-04-09,0.3409,świętokrzyskie
 2020-04-10,0.2576,świętokrzyskie
@@ -7512,3 +7557,6 @@ date,reproduction_rate,location
 2021-07-16,0.7395,świętokrzyskie
 2021-07-17,1.109,świętokrzyskie
 2021-07-18,1.3063,świętokrzyskie
+2021-07-19,1.1294,świętokrzyskie
+2021-07-20,1.1822,świętokrzyskie
+2021-07-21,1.0988,świętokrzyskie
